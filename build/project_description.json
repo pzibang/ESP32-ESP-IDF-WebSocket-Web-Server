@@ -1,7 +1,7 @@
 {
     "version":            "1",
     "project_name":       "esp32_webscoket_server",
-    "project_version":    "1",
+    "project_version":    "d20e85c-dirty",
     "project_path":       "/home/pzbiang/esp/ESP32-ESP-IDF-WebSocket-Web-Server--main",
     "idf_path":           "/home/pzbiang/esp/esp-idf",
     "build_dir":          "/home/pzbiang/esp/ESP32-ESP-IDF-WebSocket-Web-Server--main/build",
